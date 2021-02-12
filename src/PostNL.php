@@ -112,7 +112,6 @@ class PostNL implements LoggerAwareInterface
         'FI',
         'FR',
         'DE',
-        'GB',
         'GR',
         'HU',
         'IE',
